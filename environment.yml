@@ -1,0 +1,16 @@
+name: merfish_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyter
+  - tifffile
+  - scanpy
+  - squidpy
